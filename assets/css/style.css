@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    background-color: #17171f;
+}
+.container-main{
+    padding-bottom: 200px;
+}
+.link-card{
+   text-decoration: none;
+   color: white;
+}
+.link-card:hover{
+    color: white;
+}
+h1{
+    
+    font-weight: 800;
+    font-size:72px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+header{
+    padding: 25px;
+}
+.header-container{
+    padding-bottom: 100px;
+}
+.project-container{
+    padding-bottom: 200px;
+}
+.skills-container{
+    padding-bottom: 200px;
+}
+.contact-container{
+    padding-bottom: 250px;
+}
+.nav-link{
+    color: white;
+}
+.navbar-light .navbar-brand{
+    color: white;
+    font-weight: 700;
+}
+.navbar-brand a:hover{
+    color: white;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: end;
+}
+.nav-item .contact{
+    background-color: #3f3fff;
+}
+
+h2{
+   
+    color: white;
+    font-weight: 700;
+    size: 30px;  
+    font-family: 'Poppins', sans-serif;
+}
+h4{
+    font-family: 'Poppins', sans-serif; 
+}
+hr{
+    border-top:5px solid #3f3fff;
+    content: "";
+    margin-bottom: 0.25rem;
+    display: block;
+    height: 0.5rem;
+    width: 3rem;
+    border-radius: 9999px;
+    opacity: .9;
+    
+    
+}
+.ifam{
+    width: 250px;
+}
+.btn-primary{
+    background: #3f3fff;
+}
+.btn-primary:hover{
+    background: #3f3fff;
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.justify-content-evenly{
+    flex-wrap: wrap;
+}
+.card-skills{
+    
+
+}
+.margin-skills{
+    padding: 10px;
+}
+.social{
+    display: flex;
+    justify-content:center;
+    
+}
+input{
+    width: 100%;
+    height: 58px;
+    background-color: #2a2a35;
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+textarea{
+    width: 100%;
+    height: 150px;
+    background-color: #2a2a35;
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+.btn-form{
+    width: 8rem;
+}
+.container-social{
+    letter-spacing: 20px;
+}
+.p-footer{
+    color: white;
+    font-weight: 700;
+    size: 25px;  
+    font-family: 'Poppins', sans-serif; 
+}
+.fa-copyright:before {
+    content: "\f1f9";
+    font-size: initial;
+}
