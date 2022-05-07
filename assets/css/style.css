@@ -101,6 +101,13 @@ hr{
     
 
 }
+.img-width-travel img{
+    width: auto;
+}
+.img-width-ifam img{
+    height: auto;
+    width: 200px;
+}
 .margin-skills{
     padding: 10px;
 }
