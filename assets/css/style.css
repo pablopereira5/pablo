@@ -81,7 +81,12 @@ hr{
     
 }
 .ifam{
-    width: 250px;
+    width: auto;
+}
+img.onprint{
+    height: auto;
+    
+    margin: 0px!important;
 }
 .btn-primary{
     background: #3f3fff;
