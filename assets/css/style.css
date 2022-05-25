@@ -83,7 +83,7 @@ hr{
 .ifam{
     width: auto;
 }
-img.onprint{
+.onprint{
     height: auto;
     
     margin: 0px!important;
