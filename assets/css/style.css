@@ -170,8 +170,9 @@ hr{
     width: 3rem;
     border-radius: 9999px;
     opacity: .9;
-    
-    
+}
+.carousel-item{
+    display: flex;
 }
 .ifam{
     width: auto;
@@ -195,8 +196,8 @@ hr{
 .justify-content-evenly{
     flex-wrap: wrap;
 }
-.card-skills{
-    
+.card{
+    margin: 15px;
 
 }
 .img-width-travel img{
