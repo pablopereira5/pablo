@@ -101,6 +101,9 @@ body{
 .container-main{
     padding-bottom: 200px;
 }
+.card{
+    margin: 0!important;
+}
 .link-card{
    text-decoration: none;
    color: white;
